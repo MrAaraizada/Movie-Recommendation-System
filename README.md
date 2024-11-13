@@ -1,12 +1,7 @@
-# Movie Recommendation System
+#Movie Recommender System // Content Based Movie Recommender System
+Movie Recommender System is the python Based Project To Create Content Based Recommender System using TMDB 5000 movie dataset from kaggle
 
-This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
->YouTube tutorial [HERE](https://youtu.be/i-B_I2DGIAI)
-
->Dataset is [HERE](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-
->Some files are not available on GitHub due to the large file size. you can get it [HERE](https://huggingface.co/sujoy0011/Movie-Recommendation-System/tree/main)
-
+Link: https://u-rex13-movie-recommender-system-app-2ap1dd.streamlit.app/
 ## Table of Contents
 
 - [Overview](#overview)
